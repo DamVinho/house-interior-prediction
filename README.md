@@ -11,11 +11,11 @@ this (https://github.com/V-Sher/house-interior-prediction) github repo.
 Note  that these label are only for the first 450 images in bedrooms.
 This is quite small but let see what we can achieve. 
 
-At the first time, I'll explore the data, build a model from scratch
+1. At the first time, I'll explore the data, build a model from scratch
 and try to improve the model using image augmentation.
 
-At the second time, I'll use transfer learning and fine-tunning to
+2. At the second time, I'll use transfer learning and fine-tunning to
 further improve the performance.
 
-At the third time, I'll train a model using semi-supervised learning 
+3. At the third time, I'll train a model using semi-supervised learning 
 to make use of all the data available
